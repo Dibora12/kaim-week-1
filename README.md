@@ -1,4 +1,4 @@
-# ML Project Starter
+ML Project Starter
 
 This is a simple, modular machine learning project template designed for training purposes. It implements best practices in Python and machine learning development.
 
